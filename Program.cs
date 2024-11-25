@@ -14,13 +14,13 @@ public class Program  // Contains the programs code, initializes the program we
 		string myName = "John"; // initializes the variable text string "myName"
         float myAge =32.5f; // initializes the variable float "myAge". The number type
         // needs to be declared in the variable as well
-       //  Console.WriteLine(myAge); // prints the variable to the console
+        Console.WriteLine("My name is " + myName + " and I'm " + myAge + " years old."); // prints the variable to the console
         Cup myCup = new ( //creates a new instance of the cup class
             handle: false, // sets the handle property to false
             circ: 20.5d, // sets the circ property to 20.5
             depth: 50.4d // sets the depth property to 50.4
         );
-       // Console.WriteLine(myCup.HasHandle); 
+        Console.WriteLine(myCup.HasHandle); 
         // prints to the console whether the cup has a handle or not
 
         // Initializing different books and giving them parametres
