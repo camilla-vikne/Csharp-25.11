@@ -12,3 +12,4 @@ C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\r
 C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.pdb
 C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.genruntimeconfig.cache
 C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\ref\Csharp 25.11.dll
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.sourcelink.json
