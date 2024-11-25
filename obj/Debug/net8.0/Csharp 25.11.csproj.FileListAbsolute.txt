@@ -1,0 +1,14 @@
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\bin\Debug\net8.0\Csharp 25.11.exe
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\bin\Debug\net8.0\Csharp 25.11.deps.json
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\bin\Debug\net8.0\Csharp 25.11.runtimeconfig.json
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\bin\Debug\net8.0\Csharp 25.11.dll
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\bin\Debug\net8.0\Csharp 25.11.pdb
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.AssemblyInfoInputs.cache
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.AssemblyInfo.cs
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.csproj.CoreCompileInputs.cache
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.dll
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\refint\Csharp 25.11.dll
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.pdb
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\Csharp 25.11.genruntimeconfig.cache
+C:\Users\camil\Documents\Kartlegging november 24\Csharp 25.11\obj\Debug\net8.0\ref\Csharp 25.11.dll
